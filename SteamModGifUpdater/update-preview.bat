@@ -1,0 +1,1 @@
+SteamChangePreview.exe preview.gif MOD_ID_HERE 108600
